@@ -1,0 +1,2 @@
+1/ task 221 bool? insteead of bool (nullable<bool>)
+2)cab  tas222 avait be considered as 7
